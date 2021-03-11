@@ -1,7 +1,7 @@
 function main() {
     // Only change code below this line
-    var myFistName = "Adin";
-    var myLastName = "Hadzovic";
+    var myFistName = "Lejla";
+    var myLastName = "Memic";
     var myHomeTown = "Sarajevo";
 
     // Only change code above this line
